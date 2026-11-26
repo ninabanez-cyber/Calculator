@@ -22,7 +22,7 @@ body {
             rgba(15, 5, 25, 0.45),
             rgba(20, 5, 35, 0.60)
         ),
-        url("../image/twice.jpg");
+        url(image/twice.jpg);
 
     background-size: cover;
     background-position: center;
